@@ -1,8 +1,10 @@
 # Polylogarithms for cosmological wavefunctions
 
-Wolfram Language code for expressing cosmological chain and loop wavefunctions in terms of quadrangular polylogarithms and related multiple polylogarithms. This repository contains the current PolyLogTools-free implementation and a selected set of core calculations.
+Wolfram Language code for expressing cosmological chain wavefunctions and one-loop polygon integrands in terms of quadrangular polylogarithms and related multiple polylogarithms. This repository contains the current PolyLogTools-free implementation and a selected set of core calculations.
 
 The chain calculations accompany L. Ferro, T. Łukowski, L. Ren, M. Spradlin, A. Volovich, H.-C. Weng and Y.-Q. Zhang, *de Sitter Wavefunction from Quadrangular Polylogarithms: Chain Graphs*, [arXiv:2605.06542](https://arxiv.org/abs/2605.06542).
+
+The loop calculations accompany L. Ferro, T. Łukowski, S. Paranjape, L. Ren, M. Spradlin, A. Volovich, H.-C. Weng and Y.-Q. Zhang, *de Sitter Wavefunction from Quadrangular Polylogarithms: Polygon Graphs*, [arXiv:2610.06772](https://arxiv.org/abs/2610.06772).
 
 ## Requirement
 
